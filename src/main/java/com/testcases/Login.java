@@ -19,7 +19,7 @@ public class Login extends ProjectSpecificMethod{
 	public void setValues() {
 		testName = "Login Functionality";
 		testDessc = "Login using valid credentials";
-		author = "Sandhiya";
+		author = "ngocdd";
 		category = "Smoke";
 		//System.out.println("scenario name is "+scenarioName);
 	}

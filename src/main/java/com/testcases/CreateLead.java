@@ -19,7 +19,7 @@ public class CreateLead extends ProjectSpecificMethod{
 	public void setValues() {
 		testName = "Create Lead Functionality";
 		testDessc = "Create New Leads";
-		author = "Sandhiya";
+		author = "ngocdd";
 		category = "Smoke";
 		//System.out.println("scenario name is "+scenarioName);
 	}

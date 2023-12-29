@@ -12,7 +12,7 @@ public class DeleteLead extends ProjectSpecificMethod{
 	public void setValues() {
 		testName = "Delete Lead Functionality";
 		testDessc = "Delete Lead Details";
-		author = "Sandhiya";
+		author = "ngocdd";
 		category = "Smoke";
 		//System.out.println("scenario name is "+scenarioName);
 	}

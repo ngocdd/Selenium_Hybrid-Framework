@@ -138,7 +138,7 @@ private static final ThreadLocal<RemoteWebDriver> tlsdriver=new ThreadLocal<Remo
 	public void testDetails() {
 //		 testName = "Login Functionality";
 //		 testDessc = scenarioName;
-//		 author = "Sandhiya";
+//		 author = "ngocdd";
 //		 category = "Smoke";
 
 		test = extent.createTest(testName,testDessc);

@@ -12,7 +12,7 @@ public class EditLead extends ProjectSpecificMethod{
 	public void setValues() {
 		testName = "Edit Lead Functionality";
 		testDessc = "Edit Lead Details";
-		author = "Sandhiya";
+		author = "ngocdd";
 		category = "Smoke";
 		//System.out.println("scenario name is "+scenarioName);
 	}
